@@ -1,0 +1,12 @@
+{
+  "name": "solid-automated-tests",
+  "version": "1.0.0",
+  "description": "Automated tests using Vite and employing SOLID principles.",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "https://beacons.ai/danilomodz",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
